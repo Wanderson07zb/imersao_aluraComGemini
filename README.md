@@ -1,3 +1,3 @@
 # Imersão-Alura
 
-![Projeto Filmes Toon](img/filmesToon.png)
+![Projeto Filmes Toon](screenshot/filmesToon.png)
